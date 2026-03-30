@@ -48,7 +48,7 @@ Grade 12 (2018 – 2022)
 ---
 
 ## 🎥 Mock Interview Video
-📎 (Upload your video here or paste GitHub video link)
+[GitHub video link](https://github.com/230594646/230594646.github.io/blob/main/Video%20Interview.mp4)
 
 ---
 
